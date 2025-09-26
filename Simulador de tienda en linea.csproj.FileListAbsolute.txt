@@ -1,0 +1,8 @@
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\bin\Debug\Simulador de tienda en linea.exe.config
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\bin\Debug\Simulador de tienda en linea.exe
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\bin\Debug\Simulador de tienda en linea.pdb
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\obj\Debug\Simulador de tienda en linea.csproj.AssemblyReference.cache
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\obj\Debug\Simulador de tienda en linea.csproj.CoreCompileInputs.cache
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\obj\Debug\Simulador de tienda en linea.exe
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\obj\Debug\Simulador de tienda en linea.pdb
+C:\Users\galea\source\repos\Simulador de tienda en linea\Simulador de tienda en linea\obj\Debug\Simulador de tienda en linea.exe.config

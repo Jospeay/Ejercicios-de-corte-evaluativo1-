@@ -18,7 +18,9 @@ namespace Calculadora_Cienfica_Basica
             Console.WriteLine("2. Restar");
             Console.WriteLine("3. Multiplicar");
             Console.WriteLine("4. Dividir");
-            Console.WriteLine("5. Ver Último Resultado");
+            Console.WriteLine("5. Potencia");
+            Console.WriteLine("6. Raiz cuadrada");
+            Console.WriteLine("7. Ver Último Resultado");
         }
 
         // Método para la suma
@@ -57,6 +59,26 @@ namespace Calculadora_Cienfica_Basica
         
 
         }
+
+        static double Potencia(double a, double b)
+        {
+            ultimoResultado = Math.Pow(a, b);
+            Console.WriteLine($"Resultado de la potencia: {ultimoResultado}");
+        }
+
+        // Método para calcular la raíz cuadrada
+        static double RaizCuadrada(double a)
+        {
+            if (a <= 0)
+            {
+                Console.WriteLine("Error: No se puede calcular la raíz cuadrada de un número negativo o 0.");
+           
+            }
+            ultimoResultado = Math.Sqrt(a);
+            Console.WriteLine($"Resultado de la Raiz cuadrada es: {ultimoResultado}");
+        }
+
+
         //para mosotrar el ultimo resultado
         static void Mostrarultimoresultado()
         {
@@ -102,8 +124,22 @@ namespace Calculadora_Cienfica_Basica
                         Dividir(num1, num2);
                         break;
                     case 5:
+                        Console.Write("Ingrese el primer número: ");
+                        num1 = double.Parse(Console.ReadLine());
+                        Console.Write("Ingrese el segundo número: ");
+                        num2 = double.Parse(Console.ReadLine());
+                        Potencia(num1, num2);
+                        break;
+                    case 6: 
+                        Console.Write("Ingrese el primer número: ");
+                        num1 = double.Parse(Console.ReadLine());
+                        Console.Write("Ingrese el segundo número: ");
+                        num2 = double.Parse(Console.ReadLine());
+                        RaizCuadrada(num1);
+                    case 7:
                         Mostrarultimoresultado();
                         break;
+
 
                 }
             }
@@ -111,3 +147,4 @@ namespace Calculadora_Cienfica_Basica
         }
     }
 }
+

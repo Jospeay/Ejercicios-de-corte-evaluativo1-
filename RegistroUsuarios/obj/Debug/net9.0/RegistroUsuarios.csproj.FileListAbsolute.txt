@@ -1,0 +1,14 @@
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\bin\Debug\net9.0\RegistroUsuarios.exe
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\bin\Debug\net9.0\RegistroUsuarios.deps.json
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\bin\Debug\net9.0\RegistroUsuarios.runtimeconfig.json
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\bin\Debug\net9.0\RegistroUsuarios.dll
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\bin\Debug\net9.0\RegistroUsuarios.pdb
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.AssemblyInfoInputs.cache
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.AssemblyInfo.cs
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.dll
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\refint\RegistroUsuarios.dll
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.pdb
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\RegistroUsuarios.genruntimeconfig.cache
+C:\Users\choco\OneDrive\Documentos\dsa\RegistroUsuarios\obj\Debug\net9.0\ref\RegistroUsuarios.dll

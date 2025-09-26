@@ -1,0 +1,7 @@
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\bin\Debug\Calculadora Cienfica Basica.exe.config
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\bin\Debug\Calculadora Cienfica Basica.exe
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\bin\Debug\Calculadora Cienfica Basica.pdb
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\obj\Debug\Calculadora Cienfica Basica.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\obj\Debug\Calculadora Cienfica Basica.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\obj\Debug\Calculadora Cienfica Basica.exe
+C:\Users\labc205\Desktop\prueba\Calculadora Cienfica Basica\Calculadora Cienfica Basica\obj\Debug\Calculadora Cienfica Basica.pdb

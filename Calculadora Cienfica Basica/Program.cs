@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -56,23 +56,23 @@ namespace Calculadora_Cienfica_Basica
                 ultimoResultado = a / b;
                 Console.WriteLine($"Resultado de la división: {ultimoResultado}");
             }
-        
+
 
         }
 
-        static double Potencia(double a, double b)
+        static void Potencia(double a, double b)
         {
             ultimoResultado = Math.Pow(a, b);
             Console.WriteLine($"Resultado de la potencia: {ultimoResultado}");
         }
 
         // Método para calcular la raíz cuadrada
-        static double RaizCuadrada(double a)
+        static void RaizCuadrada(double a)
         {
             if (a <= 0)
             {
                 Console.WriteLine("Error: No se puede calcular la raíz cuadrada de un número negativo o 0.");
-           
+
             }
             ultimoResultado = Math.Sqrt(a);
             Console.WriteLine($"Resultado de la Raiz cuadrada es: {ultimoResultado}");
@@ -130,17 +130,19 @@ namespace Calculadora_Cienfica_Basica
                         num2 = double.Parse(Console.ReadLine());
                         Potencia(num1, num2);
                         break;
-                    case 6: 
+                    case 6:
                         Console.Write("Ingrese el primer número: ");
                         num1 = double.Parse(Console.ReadLine());
-                        Console.Write("Ingrese el segundo número: ");
-                        num2 = double.Parse(Console.ReadLine());
                         RaizCuadrada(num1);
+                        break;
                     case 7:
                         Mostrarultimoresultado();
                         break;
+                    default:
+                        Console.WriteLine("Opción no válida. Intente de nuevo.");
+                        break;
 
-
+                        
                 }
             }
 
